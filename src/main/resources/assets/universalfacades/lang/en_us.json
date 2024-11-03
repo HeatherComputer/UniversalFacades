@@ -1,3 +1,10 @@
 {
-  
+    "itemgroup.universalfacades" : "Universal Facades",
+    "item.universalfacades.wrench" : "Facade Wrench",
+
+    "item.universalfacades.wrench.applytowrench" : "Applied facade %1$s to wrench.",
+    "item.universalfacades.wrench.applytoblock" : "Applied facade %1$s to block %2$s.",
+    "item.universalfacades.wrench.empty" : "Removed facade on block %1$s.",
+    "item.universalfacades.wrench.matching" : "Not applying facade - targeted state matches facade state.",
+    "item.universalfacades.wrench.blacklist" : "The targeted block %1$s is blacklisted from being or receiving facades!"
 }
